@@ -11,8 +11,8 @@ The project was done as part of my data analytics learning journey to strengthen
 
 ## 🛠️ Tools & Technologies
 
-- SQL (PostgreSQL/MySQL/SQLite depending on environment)
-- SQL Server / Online SQL Playground
+- SQL(MS SQL)
+- SQL Server
 - GitHub for version control
 
 ---
